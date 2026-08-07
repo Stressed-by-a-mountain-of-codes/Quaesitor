@@ -1,0 +1,5 @@
+[project]
+name = "quaesitor"
+version = "1.0.0"
+description = "Backend for quaesitor"
+requires-python = ">=3.11"
