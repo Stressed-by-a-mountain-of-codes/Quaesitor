@@ -5,3 +5,4 @@ pydantic-settings
 python-dotenv
 pytest
 httpx
+python-multipart
